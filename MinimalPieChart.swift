@@ -61,7 +61,7 @@ public class MinimalPieChart: UIView {
     }
     
     required public init?(coder aDecoder: NSCoder) {
-        fatalError("init(coder:) is not implemented yet for MinimalPieChart”)
+        fatalError("init(coder:) is not implemented yet for MinimalPieChart")
     }
     
     public override func layoutSublayers(of layer: CALayer) {
